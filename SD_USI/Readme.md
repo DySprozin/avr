@@ -13,6 +13,6 @@ How to use it
 
 5) Add SC_USI.c in project (right-click on Workspace -> Add -> Add Files...)
 
-6) Compiling and enjoing! ;)
+6) Compiling and enjoing! ;-)
 
 Any questions — on sprozin@anabot.ru or dysprozin@yandex.ru
