@@ -3,6 +3,7 @@
 How to use it
 
 1) Create new Project (or open exist one) in IAR Embedded Workbench
+
 2) Add __flash feature in project's options: 
 
 ![enter image description here](http://anabot.ru/uploads/1462219068_iiflash.png)
