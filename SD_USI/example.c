@@ -18,5 +18,5 @@ int main( void )
 
  sd_init(); 
   
- sd_write("ZZZZКу! Очередной фтагн!", bpos);
+ sd_write("ZZZZ any test text", bpos);
 }
