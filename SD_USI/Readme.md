@@ -12,7 +12,7 @@ How to use it
 
 4) Include SD_USI.h in main project's file (in main.c)
 
-5) Add SC_USI.c in project (right-click on Workspace -> Add -> Add Files...)
+5) Add SD_USI.c in project (right-click on Workspace -> Add -> Add Files...)
 
 6) Compiling and enjoing! ;-)
 
